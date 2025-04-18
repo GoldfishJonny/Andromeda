@@ -35,6 +35,13 @@ Example start.sh (located one level above the server folder):
 cd server
 java -Xmx2G -Xms1G -jar server.jar nogui
 ```
+
+To use ConvertBase64toServerProfile.py.
+
+```
+python ConvertBase64toServerProfile.py <image>.txt
+```
+
 ## Future Improvements
 
 - Unique Icon and MOTD Per Server
